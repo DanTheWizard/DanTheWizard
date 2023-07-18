@@ -13,11 +13,14 @@
 
 <br>
 
-You can always reach out to me on danielpalmik@gmail.com for questions or help (nothing commercial yet)
-- Please start off with your title properly (as I am also helping out other people, and my inbox has lots of emails)
+You can always reach out to me on other social platforms for questions or help (nothing commercial yet)
 
 
 <!---
+
+
+- Please start off with your title properly (as I am also helping out other people, and my inbox has lots of emails)
+
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
