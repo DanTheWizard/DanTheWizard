@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/danielpalmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielpalmik" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools I Used:</h3>
+<h3 align="center">Languages and Tools I Use:</h3>
 <p align="center">
 <a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
 <a href="https://www.php.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
